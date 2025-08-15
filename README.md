@@ -5,6 +5,7 @@ Analyze Pakistan’s largest Retail E-commerce Dataset using advanced EDA.
 
 ## Dataset
 - Source: Kaggle
+- The original dataset is available on Kaggle: [Pakistan E-Commerce Dataset](https://www.kaggle.com/datasets)
 - Features: item_id, status, created_at, sku, price, qty_ordered, grand_total, category_name_1, payment_method, etc.
 
 ## EDA Steps
